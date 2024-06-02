@@ -9,7 +9,7 @@ import pandas as pd
 from datetime import datetime
 import plotly.express as px
 
-genai.configure(api_key="AIzaSyCtj2xGASpn_FrNYW9D-Nbt_F8-CXpFypQ")
+genai.configure(api_key="")
 
 # Encontrar um modelo compatível 
 MODELO_NOME = "gemini-pro"  
