@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+pandas
+plotly
+python-dotenv  # Se você estiver usando um arquivo .env
