@@ -1,5 +1,5 @@
 streamlit
-google-generativeai
-pandas
+google.generativeai
+pandas as pd
+datetime
 plotly
-python-dotenv  # Se você estiver usando um arquivo .env
