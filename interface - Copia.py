@@ -5,7 +5,7 @@ import pandas as pd
 from datetime import datetime
 import plotly.express as px
 
-genai.configure(api_key="")
+genai.configure(api_key="API_KEY")
 
 # Encontrar um modelo compatível 
 MODELO_NOME = "gemini-pro"  
